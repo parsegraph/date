@@ -1,11 +1,11 @@
-import todo from ".";
+import {outputDate} from ".";
 
 document.addEventListener("DOMContentLoaded", () => {
   const root = document.getElementById("demo");
   root.style.position = "relative";
 
   const container = document.createElement("div");
-  container.innerHTML = `${todo()}`;
+  container.innerHTML = `${outputDate(new Date(), true, true, true)}`;
   container.style.position = "absolute";
   container.style.left = "0px";
   container.style.top = "0px";
