@@ -23,7 +23,7 @@ CONFIG_FILES = \
 all: build lint test coverage doc
 
 show-runs:
-	xdg-open https://github.com/parsegraph/$(DIST_NAME)
+	xdg-open https://github.com/parsegraph/$(DIST_NAME)/actions
 .PHONY: show-runs
 
 show-npm:
