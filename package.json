@@ -46,7 +46,7 @@
     "mocha": "^8.2.1",
     "nyc": "^15.1.0",
     "openssl": "^1.1.0",
-    "parsegraph-gettimeinmillis": "^1.4.3",
+    "parsegraph-gettimeinmillis": "^1.4.5",
     "prettier": "2.1.2",
     "raw-loader": "^4.0.1",
     "source-map-loader": "^1.0.2",

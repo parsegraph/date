@@ -5504,7 +5504,7 @@ parse5@^3.0.1:
   dependencies:
     "@types/node" "*"
 
-parsegraph-gettimeinmillis@^1.4.3:
+parsegraph-gettimeinmillis@^1.4.5:
   version "1.4.5"
   resolved "https://registry.yarnpkg.com/parsegraph-gettimeinmillis/-/parsegraph-gettimeinmillis-1.4.5.tgz#b2bb3c8351b4fa827a3e4a4f404336b2f3366493"
   integrity sha512-J53sQzXiHZB/lenyB8Ep45aF2MoX46TPpY9lvkurl3PtxTNKoOH68Pjcn+zYEUpQh61gY/T21WvKaSmHD3YoGw==
