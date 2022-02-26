@@ -1,5 +1,5 @@
 import { assert } from "chai";
-import { dateGreater } from "../dist/parsegraph-date";
+import { dateGreater } from "../src/index";
 
 describe("Package", function () {
   it("works", () => {
