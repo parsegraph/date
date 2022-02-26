@@ -1,4 +1,4 @@
-import {outputDate} from ".";
+import { outputDate } from ".";
 
 document.addEventListener("DOMContentLoaded", () => {
   const root = document.getElementById("demo");
