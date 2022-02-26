@@ -1,6 +1,6 @@
 {
   "name": "parsegraph-date",
-  "version": "1.6.0-dev",
+  "version": "1.6.0",
   "description": "date",
   "main": "dist/parsegraph-date.js",
   "types": "dist/date.d.ts",
