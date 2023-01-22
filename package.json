@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/parsegraph/date#readme",
   "dependencies": {
-    "parsegraph-gettimeinmillis": "^1.4.8"
+    "parsegraph-gettimeinmillis": "^1.4.9"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",
