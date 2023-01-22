@@ -48,6 +48,7 @@
     "@types/node": "^17.0.21",
     "babel-jest": "^27.5.1",
     "jest": "^27.5.1",
+    "jest-environment-jsdom": "^29.3.1",
     "typedoc": "^0.22.12"
   }
 }
