@@ -3913,10 +3913,10 @@ parse5@^7.0.0, parse5@^7.1.1:
   dependencies:
     entities "^4.4.0"
 
-parsegraph-gettimeinmillis@^1.4.9:
-  version "1.4.9"
-  resolved "https://registry.yarnpkg.com/parsegraph-gettimeinmillis/-/parsegraph-gettimeinmillis-1.4.9.tgz#2b921d515b1cf767d8a84447e8c7d0376b344d86"
-  integrity sha512-az+nImOhRkRJDUyn/QgA5Pgb7aSIeXlHL3i+hBPFxCD9cVRFy99MxKrcqxaRCQqcg2vFtP1GhacbkWx598vwtw==
+parsegraph-gettimeinmillis@^1.4.10:
+  version "1.4.10"
+  resolved "https://registry.yarnpkg.com/parsegraph-gettimeinmillis/-/parsegraph-gettimeinmillis-1.4.10.tgz#cd4391bba29eb6631156fdb74baad06994e3e820"
+  integrity sha512-AZMEJZsuvjNNKMeL4aCBzkqzmno9ImILd70jVMLRpJK5Kddea7X3YYthDh+ELTUvG0i2Af65OERs2Rc7gBQJdg==
 
 path-exists@^3.0.0:
   version "3.0.0"
